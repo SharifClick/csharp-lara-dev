@@ -86,5 +86,16 @@
     "working_in": "Laravel, DevOps",
     "github": "dimitriacosta",
     "facebook": ""
-  }
+  },
+  {
+    "name": "Sharif Ahmed",
+    "email": "me.sharifahmed@gmail.com",
+    "phone": "+8801718344675",
+    "role": "Dev",
+    "city": "Sylhet, Bangladesh",
+    "company": "KWS3 Media LTD",
+    "working_in": "JavaScript, Node.js, Laravel, Go",
+    "github": "sharifclick",
+    "facebook": "sharif.click"
+  },
 ]
